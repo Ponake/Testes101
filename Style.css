@@ -1,0 +1,91 @@
+html {
+	width: 100%;
+}
+
+h1 {
+	text-align: right;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+h2 {
+  text-align: center;
+  font-size: 15px;
+}
+
+#line2 {
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  font-size: 15px;
+}
+
+
+body {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#company {
+	text-align: justify;
+}
+
+#pgdes {
+	width: 40%;
+    text-align: left;
+}
+
+#deal table{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+#deal th {
+    background-color: #eeeeee;
+    color: navy;
+    border: solid #000 1px;
+}
+
+#deal td {
+	border: solid #000 1px;
+}
+
+table {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+td {
+    vertical-align: top;
+}
+
+#sub-total {
+    border-top: solid #000 1px;
+}
+
+#total-due {
+    border-bottom: solid #000 1px;
+}
+
+#bill th {
+    background-color: #eeeeee;
+    color: navy;
+    border: solid #000 1px;
+}
+
+.data {
+    border-left: solid #000 1px;
+    border-right: solid #000 1px;
+}
+
+.r {
+    text-align: right;
+}
